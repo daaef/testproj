@@ -34,9 +34,15 @@
 }
 
 .icon-button .uk-icon-button{
-    background: #9E9E9E;
+    background: #cccccc;
     color: #fff;
     margin-right: 10px;
+    border: solid 1px #080808;
+}
+
+.icon-button .uk-icon-button svg polygon{
+    fill: white;
+    stroke: #080808!important;
 }
 
 .icon-button{
