@@ -51,6 +51,16 @@
     color: #080808;
 }
 
+@media (max-width: 768px) {
+    .media-badge{
+        font-size: 12px;
+    }
+
+    .uk-card-title {
+        font-size: 1.3rem;
+    }
+}
+
 .no-transform{
     text-transform: none;
 }
